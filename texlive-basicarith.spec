@@ -1,6 +1,6 @@
 Name:		texlive-basicarith
 Version:	35460
-Release:	1
+Release:	2
 Summary:	Macros for typesetting basic arithmetic
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/basicarith
