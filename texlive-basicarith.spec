@@ -3,7 +3,7 @@ Version:	35460
 Release:	2
 Summary:	Macros for typesetting basic arithmetic
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/basicarith
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/basicarith
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/basicarith.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/basicarith.doc.r%{version}.tar.xz
